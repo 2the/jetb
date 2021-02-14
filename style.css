@@ -59,6 +59,7 @@ html, body {
       color: #fff;
       position: fixed;
       margin: 1.4em;
+      margin-top: 0.4em;
       font-weight: bolder;
       z-index: 1;
 }
